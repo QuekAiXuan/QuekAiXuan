@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @QuekAiXuan
-- 👀 I’m interested in Data Analytics
+- 👀 I’m interested in Data Analytics, Accounting and Finance
 - 🌱 I’m currently learning Power BI, SQL and Python 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
